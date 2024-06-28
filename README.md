@@ -17,15 +17,15 @@
 
 </p>
 
-> Ultra-DDos was created to destroy bad IP Address, this script is very powerful!
+> A-DDos was created to destroy malicious IP Addresses, this script is very powerful!
 
 ---
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/Ultra-DDos/blob/main/LICENSE).
+> (https://github.com/mishakorzik/Ultra-DDos/blob/main/LICENSE).
 
 ----
 
-### Installing
+Installations
 
 * `pkg update`
 * `pkg upgrade`
@@ -51,13 +51,6 @@ Root   : No Root
 Storage: 34 MB
 Package: 154 MB
 ```
-
-------
-## Donate
-
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-UltraDDos-yellow?style=for-the-badge&logo=github"></a>
--------
 
 <br>
 <p align="center">
