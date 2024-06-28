@@ -16,7 +16,7 @@ href="https://github.com/Drxlar/A-DDos/wiki">THE WORLD IS YOUR CANVAS</a> •
 
 ----
 
-Installations
+#### INSTALLATIONS
 
 * `pkg update`
 * `pkg upgrade`
@@ -26,10 +26,6 @@ Installations
 * `apt install python3`
 * `git clone https://github.com/Drxlar/A-Dos`
 * `pip3 install requests`
-
-
-#### Finished you have successfully downloaded Ultra-DDos now to launch!
-
 * `cd ADDos`
 * `python2 main.py`
 
@@ -59,4 +55,4 @@ Package: 154 MB
 [![Github](https://img.shields.io/badge/GitHub-Drxlar-Blue?style=for-the-badge&logo=github)](https://github.com/Drxlar)
 [![Github](https://img.shields.io/badge/Facebook-Drxlar-blue?style=for-the-badge&logo=Facebook)](https://Facebook.com/MrSycarion)
 
-STAY WITH US. ANONYMOUS LEGION
+#### STAY WITH US. ANONYMOUS LEGION
