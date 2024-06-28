@@ -33,6 +33,10 @@ Installations
 * `cd ADDos`
 * `python2 main.py`
 
+#### SINGLE COMMAND
+
+* `pkg update;pkg upgrade;pkg install git;apt install python;apt install python2;apt install python3;git clone Https://github.com/Drxlar/A-Dos;pip3 install requests`
+
 -----
 ## Dependencies
 
