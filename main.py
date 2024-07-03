@@ -23,7 +23,7 @@ bl="\033[1;36;40m"
 
 print("1. Insert Ip Address")
 print("2. View Url Ip Address")
-print("3. DDos site logs")
+print("3. DDos web logs")
 op=int(raw_input("Options: "))
 if(op==1):
  os.system("python2 src/ddos.py")
