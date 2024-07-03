@@ -35,5 +35,5 @@ else:
  print("\033[1;31;40mInvalid input. Reloading Tools!") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd Addos")
+ os.system("cd A-dos")
  os.system("python2 main.py")
