@@ -26,7 +26,7 @@ href="https://github.com/Drxlar/A-DDos/wiki">THE WORLD IS YOUR CANVAS</a> •
 * `apt install python3`
 * `git clone https://github.com/Drxlar/A-Dos`
 * `pip3 install requests`
-* `cd ADDos`
+* `cd Addos`
 * `python2 main.py`
 
 #### SINGLE COMMAND
